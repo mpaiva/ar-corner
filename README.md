@@ -38,6 +38,7 @@ Here are the tools you will need to download before getting started:
 
 
 ### Agenda
+Clink on the links to follow steps.
 
 - [__Step 1__](#) - Simple VR prototype using Sketch, equirectangular images and A-Frame.
 - [__Step 2__](#) - Add 3D object into the space
@@ -46,3 +47,10 @@ Here are the tools you will need to download before getting started:
 - [__Step 5__](#) - Add a camera view.
 - [__Step 6__](#) - Add tracking marker and 3d model into scene
 - [__Step 7__](#) - Add object interaction
+
+## Conclusion
+There's a lot to learn, but the bottom line for me is that this is simpler than I had originally expected.
+
+Please contribute to this repository by forking and sending pull-requests.
+
++++
